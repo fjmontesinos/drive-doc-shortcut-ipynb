@@ -22,7 +22,7 @@ Este repositorio incluye un cuaderno de Google Colab (`docs_proyectos_activació
 
 1. Abre el cuaderno en Colab.
 2. Monta Drive y fija `ROOT_FOLDER_ID` (ID de la carpeta raíz donde crearás proyectos).
-3. Ajusta la lista de correos en la celda de configuración.
+3. Ajusta la lista de proyectos y su documentación en la celda de configuración.
 4. Ejecuta todas las celdas.
 
 ## Licencia
