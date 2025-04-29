@@ -9,6 +9,8 @@ Este repositorio incluye un cuaderno de Google Colab (`docs_proyectos_activació
 - **Manejo de errores**: registra URLs sin acceso en `urls-sin-acceso.txt`
 - **Orden y control**: procesa subcarpetas alfabéticamente y evita duplicados
 
+El cuaderno ha sido creado de forma integra utilizando **chatgpt o4-mini-high**
+
 ## Requisitos
 
 - Python 3.8+ (solo para dependencias, si se ejecuta local)
