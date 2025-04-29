@@ -1,4 +1,4 @@
-# Drive Shortcuts Manager
+# Drive Downloader Notebook
 
 Este repositorio incluye un cuaderno de Google Colab (`docs_proyectos_activación_accesos_directos.ipynb`) que automatiza la activación y gestión de accesos a documentación de proyectos en Google Drive:
 
